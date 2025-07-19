@@ -1,4 +1,8 @@
 # portfolio
 A personalized portfolio website which includes
 <br>
--projects
+-About Me
+-Skills
+-Projects
+-Intership
+-Contact Info
