@@ -75,7 +75,7 @@ nav {
 /* Home Section */
 .home {
     
-    background:linear-gradient(#2c7dd4,rgb(101, 180, 211));
+    background:linear-gradient(#2c7dd4);
     color: white;
     min-height: 100vh;
     display: flex;
